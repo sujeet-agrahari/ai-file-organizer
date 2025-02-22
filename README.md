@@ -1,5 +1,13 @@
 # AI File Organizer
 
+AI File Organizer is an intelligent assistant that helps users organize files into logical groups based on semantic meaning, file names, and extensions. It analyzes each file, groups them by purpose, and outputs the results in a JSON format.
+
+## Features
+- Semantic Analysis: Understands file types and purposes.
+- Logical Grouping: Groups similar files together.
+- JSON Output: Provides organized groups in JSON format.
+- Special Cases Handling: Manages files that don't fit obvious groups.
+
 ## Installation Instructions
 
 1. **Download and Install Ollama:**
