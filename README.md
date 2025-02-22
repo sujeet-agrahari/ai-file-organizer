@@ -12,7 +12,7 @@ AI File Organizer is an intelligent assistant that helps users organize files in
 
 1. **Download and Install Ollama:**
 
-   Follow the instructions on the [Ollama GitHub page](https://github.com/langchain/ollama) to download and install Ollama.
+   Follow the instructions on the [Ollama page](https://ollama.com/download) to download and install Ollama.
 
 2. **Pull a Model:**
 
