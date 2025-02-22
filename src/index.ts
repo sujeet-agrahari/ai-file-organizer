@@ -1,6 +1,6 @@
 import { organizeFiles } from './organizer';
 
-const directoryPath = '/Users/sujeet/Downloads';
+const directoryPath = '/Users/sujeet/Downloads/Images/Images';
 
 organizeFiles(directoryPath)
   .then(() => console.log('Files organized successfully'))
